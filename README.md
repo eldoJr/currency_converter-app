@@ -1,6 +1,7 @@
-# Currency Converter ReactJS Setup Guide
+# Currency Converter-APP Setup Guide
 
-# Preview:
+[Live](https://currency-converter-app-brown.vercel.app/)
+
 ![Preview](https://github.com/eldoJr/currency_converter-app/blob/main/preview.png)
 
 Please follow these steps to run your Currency Converter project without any errors:
