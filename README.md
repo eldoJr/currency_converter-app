@@ -1,5 +1,8 @@
 # Currency Converter ReactJS Setup Guide
 
+# Preview:
+![Preview](https://github.com/eldoJr/currency_converter-app/blob/main/preview.png)
+
 Please follow these steps to run your Currency Converter project without any errors:
 
 ## Get Your API Key
